@@ -1,16 +1,18 @@
 ---
 titleTemplate: "%s - Slidev"
 theme: slidev-theme-the-unnamed
-title: "Base talk slide deck"
-author: ""
+title: "Moving DevRel Forward"
+author: "Jeremy Meiss"
 info: |
-  ## Base talk slide deck 
+  ## Moving DevRel Forward 
 
   ## Abstract
-  <Place slide deck info or abstract here>
+  One of the most common topics of conversation, or argument, over the last 5 years or more in the tech community is over what Developer Relations is and/or is not. We tend to spend too much time on 101-level formulas and arguments, while providing very little in the way of actionable steps or a framework to be applied. And do you know why? Because it’s really hard to put together a framework or flowchart for a discipline that varies wildly depending on many factors, which you often don’t control. So with all of the variables at play here, how is DevRel supposed to prove its value to the Business?
+  
+  In this talk, Jeremy will offer up the beginnings of a framework for how we move DevRel as a discipline forward in 2024, and beyond, as well as encouraging conversation.
 conference: ""
-favicon: ''
-keywords: 
+favicon: 'https://raw.githubusercontent.com/jerdog/jmeiss-me-website/main/assets/images/fav.png'
+keywords: devrel,devex,developer relations,community,developer experience
 presenter: true
 download: true
 exportFilename: -slidevExport
@@ -39,15 +41,17 @@ defaults:           # default frontmatter applies to all slides
   layout: center    # https://sli.dev/builtin/layouts#layouts
   transition: fade  # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 addons:
-#  - slidev-addon-rabbit
-#  - slidev-addon-qrcode
-#rabbit:
-#  slideNum: true
+  - slidev-addon-rabbit
+  - slidev-addon-qrcode
+rabbit:
+  slideNum: true
 layout: cover
 transition: slide-left
 ---
 
-# Base talk slide deck
+# Moving DevRel Forward...
+
+## ...now, and into the future
 
 
 
